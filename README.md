@@ -1,7 +1,7 @@
-Polybius-square
+Polybios-square
 ===============
 
-Small function to decrypt and encrypt a string with a polybius square cryptography. Not very secure, but interesting.
+Small function to decrypt and encrypt a string with a polybios square cryptography. Not very secure, but interesting.
 
 ## Usage
 
